@@ -72,6 +72,9 @@ export default function Footer() {
             <a className="hover:text-green-400" href="/terms">
               Privacy Policy
             </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0FmtM56ENAdVveqndZJeIxwbFNDA_s2zzLW6qPR1mkm43Kw/viewform"  className="hover:text-green-400">
+            Account Deletion
+            </a>
           </div>
 
           <div className="flex flex-col justify-between items-center lg:items-end lg:justify-self-end lg:col-span-4">
