@@ -19,7 +19,7 @@ export default function Home() {
           <Hero />
           <Motivation />
         </div>
-        <Blog />
+       
         <Footer />
    </div>
   )

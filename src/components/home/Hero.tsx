@@ -15,9 +15,22 @@ export default function Hero() {
               one-stop-shop for spending, saving, budgeting, investing, and much
               more.
             </p>
-            <button className="bg-[#ff5733] px-7 py-3 rounded-full text-neutral-white text-xs bg-gradient-to-r from-[#ff5733] to-[#ff5733] hover:button-brightness mb-7 focus:outline-none focus:ring ring-[#ff5733">
-              Request Invite
+         <div className="flex justify-center lg:justify-start gap-10  ">
+         <button 
+          onClick={()=>{
+            window.location.href = 'https://apps.apple.com/us/app/prive-pay/id6478652365';
+          }}
+         className="max-w-[150px] min-w-[150px]  w-[150px]  rounded-full hover:scale-125 transition-all text-neutral-white text-xs bg-gradient-to-r  hover:button-brightness mb-7 focus:outline-none ">
+             <img src="/appleios.svg" className="max-w-[150px] w-[150px] min-w-[150px]" alt="arrow" />
+            </button> 
+            <button 
+            onClick={()=>{
+              window.location.href = 'https://play.google.com/store/apps/details?id=com.privepay&pcampaignid=web_share';
+            }}
+            className="max-w-[150px] w-[150px] min-w-[150px] scale-125  rounded-full hover:scale-150 transition-all text-neutral-white text-xs bg-gradient-to-r  hover:button-brightness mb-7 focus:outline-none f">
+             <img src="/play.png" alt="arrow"  className="max-w-[150px] w-[150px] min-w-[150px]"/>
             </button>
+            </div>
           </div>
         </div>
       </div>
