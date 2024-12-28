@@ -24,8 +24,12 @@ export default function Navbar() {
             ))}
           </div>
 
-          <button className="hidden lg:block bg-[#ff5733] px-7 py-3 rounded-full text-neutral-white text-xs bg-gradient-to-r from-[#ff5733] to-[#ff5733] hover:button-brightness focus:outline-none focus:ring ring-green-400">
-            Download Now
+          <button
+           onClick={()=>{
+            window.location.href = 'https://privepa-merchant-web.vercel.app/';
+            }}
+          className="hidden lg:block bg-[#ff5733] px-7 py-3 rounded-full text-neutral-white text-xs bg-gradient-to-r from-[#ff5733] to-[#ff5733] hover:button-brightness focus:outline-none focus:ring ring-green-400">
+            Merchant App
           </button>
 
           <button
