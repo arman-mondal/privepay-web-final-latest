@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react';
 
 const navItems = ['Home', 'Contact', 'Careers','Terms & Conditions'];

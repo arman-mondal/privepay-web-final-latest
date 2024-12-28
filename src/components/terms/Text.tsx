@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function Terms() {
         return (
             <section id="hero" className="relative px-[20%] min-h-[140vh] mt-[10%]">

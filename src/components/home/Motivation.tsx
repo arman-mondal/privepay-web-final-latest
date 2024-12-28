@@ -1,3 +1,5 @@
+import React from "react";
+
 const motivationItems = [
   {
     iconPath: '/icons/icon-online.svg',

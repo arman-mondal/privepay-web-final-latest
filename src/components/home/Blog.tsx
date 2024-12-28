@@ -1,3 +1,5 @@
+import React from "react";
+
 const articles = [
   {
     author: 'By Claire Robinson',
