@@ -8,7 +8,7 @@ export default function Terms() {
                     <li>
                         <h2>Introduction</h2>
                         <p>
-                            Welcome to [PrivePay], a comprehensive payment aggregator app designed to streamline your dining and event booking experiences. By accessing or using our services, you agree to adhere to and be legally bound by the following terms and conditions. If you do not agree with any part of these terms, please refrain from using our app.
+                            Welcome to PrivePay a unit of AMEYA ENTERPRISES , a comprehensive payment aggregator app designed to streamline your dining and event booking experiences. By accessing or using our services, you agree to adhere to and be legally bound by the following terms and conditions. If you do not agree with any part of these terms, please refrain from using our app.
                         </p>
                     </li>
                     <li>
@@ -21,7 +21,7 @@ export default function Terms() {
                                 <strong>Service Provider:</strong> Restaurants, event organizers, and other entities offering services through the app.
                             </li>
                             <li>
-                                <strong>Payment Aggregator:</strong> [PrivePay], which facilitates payments between users and service providers.
+                                <strong>Payment Aggregator:</strong> [AMEYA ENTERPRISES], which facilitates payments between users and service providers.
                             </li>
                             <li>
                                 <strong>Booking:</strong> The reservation or purchase of dining services or event tickets through the app.
@@ -38,7 +38,7 @@ export default function Terms() {
                                 <strong>Confidentiality:</strong> Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account.
                             </li>
                             <li>
-                                <strong>Account Security:</strong> Users must immediately notify [PrivePay] of any unauthorized use of their account or any other security breach.
+                                <strong>Account Security:</strong> Users must immediately notify [AMEYA ENTERPRISES] of any unauthorized use of their account or any other security breach.
                             </li>
                         </ul>
                     </li>
@@ -66,10 +66,10 @@ export default function Terms() {
                                 <strong>Cancellation Policy:</strong> Cancellation policies vary by service provider and are displayed at the time of booking. Users must review these policies before making a booking.
                             </li>
                             <li>
-                                <strong>Refunds:</strong> Refunds, if applicable, are processed according to the service provider’s policy. [PrivePay] is not responsible for refund disputes but may assist in facilitating communication between users and service providers.
+                                <strong>Refunds:</strong> Refunds, if applicable, are processed according to the service provider’s policy. AMEYA ENTERPRISES is not responsible for refund disputes but may assist in facilitating communication between users and service providers.
                             </li>
                             <li>
-                                <strong>Liability:</strong> PrivePay is just a mediator between the events or restaurants and users, we are not liable for any unlawful activity or substances provided at the event or restaurant.
+                                <strong>Liability:</strong> AMEYA ENTERPRISES is just a mediator between the events or restaurants and users, we are not liable for any unlawful activity or substances provided at the event or restaurant.
                             </li>
                         </ul>
                     </li>
@@ -105,10 +105,10 @@ export default function Terms() {
                         <h2>Dispute Resolution</h2>
                         <ul>
                             <li>
-                                <strong>Direct Resolution:</strong> Any disputes between users and service providers must be resolved directly between the parties. [PrivePay] is not responsible for resolving disputes but may assist in facilitating communication.
+                                <strong>Direct Resolution:</strong> Any disputes between users and service providers must be resolved directly between the parties. AMEYA ENTERPRISES is not responsible for resolving disputes but may assist in facilitating communication.
                             </li>
                             <li>
-                                <strong>Mediation:</strong> In cases where direct resolution is not possible, [PrivePay] may offer mediation services to help resolve disputes amicably.
+                                <strong>Mediation:</strong> In cases where direct resolution is not possible, [AMEYA ENTERPRISES] may offer mediation services to help resolve disputes amicably.
                             </li>
                         </ul>
                     </li>
@@ -116,13 +116,13 @@ export default function Terms() {
                         <h2>Limitation of Liability</h2>
                         <ul>
                             <li>
-                                <strong>No Warranties:</strong> [PrivePay] provides the app on an “as is” and “as available” basis without any warranties, express or implied.
+                                <strong>No Warranties:</strong> [AMEYA ENTERPRISES] provides the app on an “as is” and “as available” basis without any warranties, express or implied.
                             </li>
                             <li>
-                                <strong>Liability Limitation:</strong> [PrivePay] is not liable for any direct, indirect, incidental, or consequential damages arising from the use of the app, including but not limited to loss of profits, data, or goodwill.
+                                <strong>Liability Limitation:</strong> [AMEYA ENTERPRISES] is not liable for any direct, indirect, incidental, or consequential damages arising from the use of the app, including but not limited to loss of profits, data, or goodwill.
                             </li>
                             <li>
-                                <strong>Third-Party Services:</strong> [PrivePay] does not guarantee the accuracy or reliability of information provided by service providers and is not responsible for any issues arising from third-party services.
+                                <strong>Third-Party Services:</strong> [AMEYA ENTERPRISES] does not guarantee the accuracy or reliability of information provided by service providers and is not responsible for any issues arising from third-party services.
                             </li>
                         </ul>
                     </li>
@@ -130,7 +130,7 @@ export default function Terms() {
                         <h2>Changes to Terms and Conditions</h2>
                         <ul>
                             <li>
-                                <strong>Modifications:</strong> [PrivePay] reserves the right to modify these terms and conditions at any time. Users will be notified of any changes through the app or via email.
+                                <strong>Modifications:</strong> [AMEYA ENTERPRISES] reserves the right to modify these terms and conditions at any time. Users will be notified of any changes through the app or via email.
                             </li>
                             <li>
                                 <strong>Continued Use:</strong> Continued use of the app after any changes to the terms and conditions constitutes acceptance of the new terms.
@@ -149,7 +149,7 @@ export default function Terms() {
                         <h2>Contact Information</h2>
                         <ul>
                             <li>
-                                <strong>Support:</strong> For any questions, concerns, or support needs, users can contact [PrivePay] at [Contact Information]. Our customer service team is available to assist you.
+                                <strong>Support:</strong> For any questions, concerns, or support needs, users can contact [AMEYA ENTERPRISES] at [Contact Information]. Our customer service team is available to assist you.
                             </li>
                         </ul>
                     </li>
