@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Privacy() {
         return (
-           <div className="content-container">
+           <div className="content-container px-4">
     <p className="content-head">Terms &amp; Conditions</p>
     <div className="content-seprater"></div>
     <p className="updated-date">Last updated on Aug 7th 2024</p>
