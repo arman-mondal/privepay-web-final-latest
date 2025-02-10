@@ -8,6 +8,8 @@ import Footer from './components/layout/Footer.tsx';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';  
 import Home from './screens/home.tsx';
 import Terms from './components/terms/Text.tsx';
+import Privacy from './components/terms/Privacy.tsx';
+
 import Contact from './components/Contact/Contact.tsx';
 function App() {
   const width = window.innerWidth;
@@ -35,7 +37,7 @@ function App() {
         </>} />
          <Route path='/privacy' element={<>
         <Navbar />
-        <Terms />
+        <Privacy />
         <Footer />
         </>} />
 
