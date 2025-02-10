@@ -90,7 +90,7 @@ export default function Footer() {
             </button>
 
             <p className="text-neutral-grayish-blue text-sm">
-              © PrivePay. All Rights Reserved
+              ©AMEYA ENTERPRISES. All Rights Reserved
             </p>
           </div>
         </div>
