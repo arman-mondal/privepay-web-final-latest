@@ -71,7 +71,7 @@ export default function Footer() {
             <a className="hover:text-green-400" href="/contact">
               Support
             </a>
-            <a className="hover:text-green-400" href="/terms">
+            <a className="hover:text-green-400" href="/privacy">
               Privacy Policy
             </a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0FmtM56ENAdVveqndZJeIxwbFNDA_s2zzLW6qPR1mkm43Kw/viewform"  className="hover:text-green-400">
