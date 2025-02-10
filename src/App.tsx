@@ -33,6 +33,11 @@ function App() {
         <Terms />
         <Footer />
         </>} />
+         <Route path='/privacy' element={<>
+        <Navbar />
+        <Terms />
+        <Footer />
+        </>} />
 
       </Routes>
     </Router>
