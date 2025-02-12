@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 
 export default function Footer() {
   return (
@@ -61,7 +61,7 @@ export default function Footer() {
 
           <div className="grid grid-cols-1 gap-2 py-1 lg:grid-rows-3 text-white text-sm lg:text-left lg:justify-self-start lg:col-span-5 lg:gap-x-24 lg:grid-flow-col-dense">
           
-            <a className="hover:text-green-400" href="/contact">
+            <a className="hover:text-green-400" href="/contacts">
               Contact
             </a>
            
