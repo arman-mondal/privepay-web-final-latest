@@ -66,7 +66,7 @@ export default function Terms() {
                                 <strong>Cancellation Policy:</strong> Cancellation policies vary by service provider and are displayed at the time of booking. Users must review these policies before making a booking.
                             </li>
                             <li>
-                                <strong>Refunds:</strong> Refunds, if applicable, are processed according to the service provider’s policy. AMEYA ENTERPRISES is not responsible for refund disputes but may assist in facilitating communication between users and service providers.
+                                <strong>Refunds:</strong> Refunds, if applicable, are processed within 3-4 business days according to the service provider’s policy. AMEYA ENTERPRISES is not responsible for refund disputes but may assist in facilitating communication between users and service providers.
                             </li>
                             <li>
                                 <strong>Liability:</strong> AMEYA ENTERPRISES is just a mediator between the events or restaurants and users, we are not liable for any unlawful activity or substances provided at the event or restaurant.
