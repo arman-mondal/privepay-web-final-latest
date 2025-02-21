@@ -13,9 +13,8 @@ export default function Hero() {
               Pay With Ease
             </h1>
             <p className="text-neutral-grayish-blue text-xs lg:text-base leading-5 mb-7">
-              Take your financial life online. Your Easybank account will be a
-              one-stop-shop for spending, saving, budgeting, investing, and much
-              more.
+              Grab huge discounts at your favourite cafes and clubs using Privepay.
+              Earn Rewards at top and latest places in your town.
             </p>
          <div className="flex justify-center lg:justify-start gap-10  ">
          <button 
